@@ -1,0 +1,52 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background-color: #E94E77;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover {
+  text-decoration: none;
+}
+.header {
+  background-color: #D68189;
+}
+.header .title {
+  color: #fff;
+  text-align: center;
+}
+.header li {
+  display: inline-block;
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+}
+.header li:hover{
+  background-color: transparent;
+}
+.header
+.jumbotron {
+  height: 300px;
+  background-color: #aaa;
+}
+.feature {
+  text-align: left;
+  background-color: #C6E5D9;
+  padding-top: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.footer {
+  float: clear;
+  background-color: #F4EAD5;
+}
+.footer li {
+  display: inline-block;
+  background-color: #C6A49A;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+}
