@@ -9,3 +9,4 @@ TODO:
 - create pages for navbar links
 - create jquery dropdown menu for "Meet the Deer"
 - center lorem ipsum blurb
+- add carousel to jumbotron
