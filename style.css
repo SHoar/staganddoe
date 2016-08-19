@@ -26,9 +26,9 @@ a:hover {
 .header li:hover{
   background-color: transparent;
 }
-.header
+
 .jumbotron {
-  height: 300px;
+  height: 400px;
   background-color: #aaa;
 }
 .feature {
