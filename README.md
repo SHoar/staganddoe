@@ -6,7 +6,10 @@ TODO:
 - add pictures in jumbotron
 - create js for actionable buttons
 - inline-form submit button for email subscribe
+  - jquery submit
 - create pages for navbar links
 - create jquery dropdown menu for "Meet the Deer"
 - center lorem ipsum blurb
 - add carousel to jumbotron
+- add language from flyer
+- change color scheme
