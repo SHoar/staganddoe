@@ -3,13 +3,14 @@ This is the website for Scott &amp; Megan's Stag and Doe Party
 
 TODO:
 
-- add pictures in jumbotron
+- ~~add pictures in jumbotron~~
 - create js for actionable buttons
-- inline-form submit button for email subscribe
+- ~~inline-form submit button for email subscribe~~
   - jquery submit
-- create pages for navbar links
+- ~~create pages for navbar links~~
+- - add to hrefs
 - create jquery dropdown menu for "Meet the Deer"
-- center lorem ipsum blurb
-- add carousel to jumbotron
+- center blurb on page
+- ~~add carousel to jumbotron~
 - add language from flyer
 - change color scheme
