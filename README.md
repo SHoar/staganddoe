@@ -11,6 +11,7 @@ TODO:
 - - add to hrefs
 - create jquery dropdown menu for "Meet the Deer"
 - center blurb on page
-- ~~add carousel to jumbotron~
+- ~~add carousel to jumbotron~~
+  - fix placement and positioning
 - add language from flyer
 - change color scheme
